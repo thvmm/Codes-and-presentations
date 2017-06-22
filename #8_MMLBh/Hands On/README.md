@@ -31,7 +31,8 @@ Loading bluemix-settings.js
 Failed to find Cloudant service: /^node-red-bluemix-watson-starter.cloudantNoSQLDB/
 Loading application settings
 Starting first-use setup
-Waiting for first-use setup to complete```
+Waiting for first-use setup to complete
+```
 
 Proximos passos:
 
