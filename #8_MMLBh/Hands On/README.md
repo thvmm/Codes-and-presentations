@@ -11,18 +11,19 @@ Preparação do Ambiente de Desenvolvimento
 
 2. Instale o [Node.Js](https://nodejs.org/).
 
-[Node.Js](https://nodejs.org/en/download/ )
-[Package Manager](https://nodejs.org/en/download/package-manager/ )
+3. Baixar o [Node.Js](https://nodejs.org/en/download/)
+
+4. Baixar o [Package Manager](https://nodejs.org/en/download/package-manager/)
 
 Após Instalação do Node.Js bem sucedida
 
-```git clone https://github.com/watson-developer-cloud/node-red-bluemix-starter```
+        git clone https://github.com/watson-developer-cloud/node-red-bluemix-starter
 
-```cd node-red-bluemix-starter```
+        cd node-red-bluemix-starter
 
-```npm install```
+        npm install
 
-```npm start```
+        npm start
 
 Você deve ter um log parecido com:
 ----------------------------------
@@ -34,12 +35,12 @@ Loading application settings
 Starting first-use setup
 Waiting for first-use setup to complete
 
-        conda install -c r r-essentials
+Proximos passos:
 
--   Acesse http://127.0.0.1:1880
--   Next
--   Escolha a opção "Not recommended" para a instalação local apenas
--   Next em todas as outras opções até finalizar
+1. Acesse http://127.0.0.1:1880
+2. Next
+3. Escolha a opção "Not recommended" para a instalação local apenas
+4. Next em todas as outras opções até finalizar
 
 Acesse http://127.0.0.1:1880/red! Sua instalação foi bem sucedida! Até o Meetup!
 
