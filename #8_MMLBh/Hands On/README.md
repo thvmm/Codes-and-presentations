@@ -17,13 +17,13 @@ Preparação do Ambiente de Desenvolvimento
 
 Após Instalação do Node.Js bem sucedida
 
-        git clone https://github.com/watson-developer-cloud/node-red-bluemix-starter
+```git clone https://github.com/watson-developer-cloud/node-red-bluemix-starter```
 
-        cd node-red-bluemix-starter
+```cd node-red-bluemix-starter```
 
-        npm install
+```npm install```
 
-        npm start
+```npm start```
 
 Você deve ter um log parecido com:
 ----------------------------------
