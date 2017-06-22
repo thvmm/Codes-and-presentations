@@ -9,11 +9,9 @@ Preparação do Ambiente de Desenvolvimento
 
 1. Criar uma conta no [IBM Bluemix](https://www.ibm.com/br-pt/marketplace/cloud-platform) com 30 dias gratuidos
 
-2. Instale o [Node.Js](https://nodejs.org/).
+2. Baixar o [Node.Js](https://nodejs.org/en/download/)
 
-3. Baixar o [Node.Js](https://nodejs.org/en/download/)
-
-4. Baixar o [Package Manager](https://nodejs.org/en/download/package-manager/)
+3. Baixar o [Package Manager](https://nodejs.org/en/download/package-manager/)
 
 Após Instalação do Node.Js bem sucedida
 
@@ -28,12 +26,12 @@ Após Instalação do Node.Js bem sucedida
 Você deve ter um log parecido com:
 ----------------------------------
 
-Starting Node-RED on Bluemix bootstrap
+```Starting Node-RED on Bluemix bootstrap
 Loading bluemix-settings.js
 Failed to find Cloudant service: /^node-red-bluemix-watson-starter.cloudantNoSQLDB/
 Loading application settings
 Starting first-use setup
-Waiting for first-use setup to complete
+Waiting for first-use setup to complete```
 
 Proximos passos:
 
