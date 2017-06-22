@@ -40,3 +40,5 @@ No terminal dentro do diretorio `smartcab/` (contem no README do projeto), execu
 ```python -m smartcab.agent```
 
 Você vai executar `agent.py`, se estiver tudo certo o algoritimo vai começar a trabalhar é uma janela do PyGame será aberta, você podera ver o modelo trabalhando. Sua função será realizar implementações no modelo afim de melhorar o acerto do modelo.
+
+### Melhorias
