@@ -6,12 +6,13 @@ Hands On
 Preparação do Ambiente de Desenvolvimento
 -----------------------------------------
 
-
+Caminho fácil:
 1. Criar uma conta no [IBM Bluemix](https://www.ibm.com/br-pt/marketplace/cloud-platform) com 30 dias gratuidos
 
-2. Baixar e instalar o [Node.Js](https://nodejs.org/en/download/)
+Para não depender da internet a instalação pode ser feita local também:
+1. Baixar e instalar o [Node.Js](https://nodejs.org/en/download/)
 
-3. Baixar e instalar o [Package Manager](https://nodejs.org/en/download/package-manager/)
+2. Baixar e instalar o [Package Manager](https://nodejs.org/en/download/package-manager/)
 
 Após Instalação do Node.Js bem sucedida
 
